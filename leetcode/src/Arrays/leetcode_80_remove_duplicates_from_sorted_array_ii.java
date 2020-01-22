@@ -1,3 +1,5 @@
+package Arrays;
+
 /**
  * @author Hongliang Zhu
  * @create 2020-01-22 10:07
@@ -37,6 +39,5 @@ public class leetcode_80_remove_duplicates_from_sorted_array_ii {
         System.out.println();
 
     }
-
 
 }
