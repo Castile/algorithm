@@ -23,10 +23,10 @@ public class UF {
 
     public int find(int x){
         int root = parent[x];
-        while (parent[x] != x){ // 路径压缩
-            x = parent[x];
+        while (parent[root] != root){ // 路径压缩
+            root = parent[root];
         }
-        return x;
+        return root;
     }
 
 
@@ -54,6 +54,7 @@ public class UF {
         }
         count--; // 连通分量个数减一
     }
+
 
 
 }

@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 /**
  * @author Hongliang Zhu
  * @create 2020-01-27 10:17
@@ -51,8 +50,6 @@ public class leetcode684_RedundantConnection {
                 return edge;
             }
         }
-
-
         return null;
 
 
