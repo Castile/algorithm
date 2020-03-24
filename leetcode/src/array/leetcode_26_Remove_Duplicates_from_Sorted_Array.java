@@ -1,4 +1,4 @@
-package Arrays;
+package array;
 
 /**
  * @author Hongliang Zhu

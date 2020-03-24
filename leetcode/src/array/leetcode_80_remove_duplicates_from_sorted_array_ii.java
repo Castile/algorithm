@@ -1,4 +1,4 @@
-package Arrays;
+package array;
 /**
  * @author Hongliang Zhu
  * @create 2020-01-22 10:07
