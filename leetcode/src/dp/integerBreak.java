@@ -1,7 +1,8 @@
 /*
  * @lc app=leetcode.cn id=343 lang=java
  *
- * [343] 整数拆分
+ 2020年3月24日21:04:51
+ * [343] 整数拆分 
  */
 
 // @lc code=start
