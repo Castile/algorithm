@@ -2,7 +2,7 @@ package Sort;
 
 /**
  *
- * 插入排序
+ * 插入排序 简单实现
  *
  * @author Hongliang Zhu
  * @create 2020-03-18 22:56
